@@ -5,7 +5,7 @@
   <version>0.1.0</version>
   <description>Display apriltag detections in image overlay</description>
   <maintainer email="marcel.zeilinger@ait.ac.at">Marcel Zeilinger</maintainer>
-  <license>TODO: License declaration</license>
+  <license>Apache 2.0</license>
 
   <buildtool_depend>ament_cmake_ros</buildtool_depend>
 
