@@ -1,0 +1,5 @@
+<library path="apriltag_overlay_plugins">
+  <class type="apriltag_overlay_plugins::AprilTagLayer" base_class_type="rqt_image_overlay_layer::PluginInterface">
+    <description>Display apriltag detections from apriltag_msgs/msg/AprilTagDetectionArray</description>
+  </class>
+</library>
